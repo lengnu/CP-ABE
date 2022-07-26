@@ -14,3 +14,5 @@
 7. util：工具类
 #### 4、如何使用
 根据test包下的Text.class类中getAccessTree()方法样例，构建访问树结构，然后依照test1()方法依此进行加解密
+#### 5、github地址
+[https://github.com/lengnu/CP-ABE](https://github.com/lengnu/CP-ABE)

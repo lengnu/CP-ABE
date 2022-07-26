@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc656ed5-6ed8-4322-9786-686ee038b231" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/duwei/cp/abe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -62,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\001\Desktop\JPBC_ABE\CP-ABE" />
       <recent name="C:\Users\001\Desktop\JPBC_ABE\CP-ABE\src\main\java\com\duwei\cp\abe" />
       <recent name="C:\Users\001\Desktop\JPBC_ABE\CP-ABE\src\main\java\com\duwei\cp\abe\structure" />
       <recent name="C:\Users\001\Desktop\JPBC_ABE\CP-ABE\lib" />
@@ -121,7 +122,7 @@
       <workItem from="1658717661652" duration="1191000" />
       <workItem from="1658734772570" duration="7341000" />
       <workItem from="1658797122453" duration="16161000" />
-      <workItem from="1658825126442" duration="1556000" />
+      <workItem from="1658825126442" duration="2262000" />
     </task>
     <servers />
   </component>
