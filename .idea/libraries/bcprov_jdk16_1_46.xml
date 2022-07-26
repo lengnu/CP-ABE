@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk16-1.46">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk16-1.46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpbc-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpbc-benchmark-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpbc-crypto-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpbc-mm-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpbc-plaf-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpbc-pbc-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
